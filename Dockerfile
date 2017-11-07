@@ -2,7 +2,6 @@ From alpine:latest
 
 LABEL maintainer="sys0dm1n" \
       description="Maildev"
-
 # You can set this variables when running the image to override the host name or
 # foward the messages to another server
 # ENV	HOSTNAME
